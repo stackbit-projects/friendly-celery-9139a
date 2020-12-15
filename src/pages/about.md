@@ -23,5 +23,5 @@ As a hobby, John Doe authors the most influential design blog in Sweden with ove
     <option value="audi">Audi</option>
   </select>
   <br><br>
-  <input type="submit" value="Submit">
+  <input type="submit" href="www.google.com" value="Submit">
 </form>
