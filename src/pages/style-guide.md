@@ -76,7 +76,7 @@ body {
     </thead>
     <tbody>
       <tr>
-        <td>Row 1, Cell 1</td>
+        <td><button>save<button />Row 1, Cell 1</td>
         <td>Row 1, Cell 2</td>
         <td>Row 1, Cell 3</td>
       </tr>
@@ -88,3 +88,4 @@ body {
     </tbody>
   </table>
 </div>
+[](https://)
